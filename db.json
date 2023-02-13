@@ -1,46 +1,53 @@
 {
   "users": [
     {
-      "name": "Holly Abbott",
-      "id": 2
+      "id": 1,
+      "name": "Myra"
     },
     {
-      "name": "Juanita Cummings",
+      "name": "Elsie Price",
       "id": 3
     },
     {
-      "name": "Mitchell Toy",
-      "id": 7
+      "name": "Harold Strosin",
+      "id": 4
     },
     {
-      "name": "Abel Hagenes",
-      "id": 9
+      "name": "Sue McCullough DVM",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
     },
     {
-      "name": "Fernando Heaney",
-      "id": 10
-    },
-    {
-      "name": "Lila Hammes",
+      "userId": 1,
+      "title": "Ergonomic Steel Chair",
       "id": 11
     },
     {
-      "name": "Bradford Tillman",
+      "userId": 1,
+      "title": "Modern Bronze Bike",
       "id": 12
     },
     {
-      "name": "Carlos Bednar I",
+      "userId": 4,
+      "title": "Fantastic Frozen Keyboard",
       "id": 13
     },
     {
-      "name": "Ginger Schmidt",
+      "userId": 1,
+      "title": "Practical Frozen Hat",
       "id": 14
     },
     {
-      "name": "Tammy O'Conner",
+      "userId": 1,
+      "title": "Tasty Fresh Pants",
       "id": 15
     }
   ],
-  "albums": [],
   "photos": []
 }
